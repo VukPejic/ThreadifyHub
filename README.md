@@ -1,0 +1,1 @@
+Threads clone app made with Next js, typescript, Clerk and mongodb
